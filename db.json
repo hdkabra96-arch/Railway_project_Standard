@@ -1,0 +1,42 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "title": "Track Construction & Maintenance",
+      "description": "Comprehensive track laying, welding, and ongoing maintenance for high-speed and freight railways.",
+      "image": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": "2",
+      "title": "Railway Electrification",
+      "description": "Overhead line equipment (OLE) installation, substations, and power distribution systems.",
+      "image": "https://images.unsplash.com/photo-1560001099-2a912a7a5180?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": "3",
+      "title": "Signaling & Telecommunications",
+      "description": "Advanced signaling systems, ERTMS implementation, and secure railway communication networks.",
+      "image": "https://images.unsplash.com/photo-1541888069811-134951475871?auto=format&fit=crop&q=80&w=800"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Eastern Corridor High-Speed Rail",
+      "client": "National Transport Authority",
+      "status": "Completed",
+      "year": "2024",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": "2",
+      "title": "Metropolitan Line Extension",
+      "client": "City Metro Corp",
+      "status": "In Progress",
+      "year": "2025",
+      "image": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?auto=format&fit=crop&q=80&w=800"
+    }
+  ],
+  "certifications": "We are proud to be an ISO 9001:2015, ISO 14001:2015, and ISO 45001:2018 certified railway infrastructure contractor. Our commitment to quality, environmental management, and occupational health and safety is unwavering. All our projects comply with international railway standards (IRS) and local regulatory requirements.",
+  "contacts": []
+}
